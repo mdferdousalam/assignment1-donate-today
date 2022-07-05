@@ -29,6 +29,39 @@ body{
     font-weight: 700;
     color: azure;
     background-color: tomato;
-    padding: 10px 25px;
+    padding: 10px 20px;
     border-radius: 5px;
+}
+
+.donation-section{
+    text-align: center;
+}
+
+.donation-section p{
+    margin-bottom: 50px;
+}
+#donation-title{
+    font-size: 50px;
+}
+.donation-amounts{
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.donation-items{
+    background-color:whitesmoke;
+    margin-left: 10%;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 5%;
+   
+}
+
+#selected-donation-item{
+    background-color: rgb(238, 200, 200);
+    color: red;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10%;
+    width: 5%;
 }
