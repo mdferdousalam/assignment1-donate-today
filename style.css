@@ -157,11 +157,20 @@ margin-bottom: 100px;
     height: 35px;
 }
 #email-box-background{
+    display: flex;
     background-color:rgb(234, 229, 209) ;
-    width: 35%;
-    padding: 50px 10px;
-    margin-left: 32%;
+    width: 15%;
+    padding: 50px 350px;
+    margin-left: 26%;
 }
+#subscribe-button{
+    text-decoration: none;
+    font-weight: 700;
+    color: azure;
+    background-color: tomato;
+    padding: 10px 20px;
+}
+
 /* ============================================= */
 
 
