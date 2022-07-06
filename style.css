@@ -132,8 +132,27 @@ body{
 /* ================================================================ */
 
 
+/* =============email subscription section=========== */
 
+.email-subscription-section{
+text-align: center;
+font-size: 18px;
+margin-bottom: 100px;
+}
+.email-subscription-section h1{
+    font-size: 50px;
+}
 
+#email-box{
+    height: 35px;
+}
+#email-box-background{
+    background-color:rgb(234, 229, 209) ;
+    width: 35%;
+    padding: 50px 10px;
+    margin-left: 32%;
+}
+/* ============================================= */
 
 
 /* ================footer section css=============== */
